@@ -1,2 +1,9 @@
 # mirih87.github.io
-Miri Home
+
+##Details:
+
+Miri Hershkovitz
+
+My Projects:
+
+[https://mirih87.github.io/TicTacToe](TicTacToe)
