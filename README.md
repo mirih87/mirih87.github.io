@@ -6,4 +6,4 @@ Miri Hershkovitz
 
 My Projects:
 
-[https://mirih87.github.io/TicTacToe](TicTacToe)
+![https://mirih87.github.io/TicTacToe](TicTacToe)
